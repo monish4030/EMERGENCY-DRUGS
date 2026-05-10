@@ -7,7 +7,7 @@
 ## 🖥️ Live Demo
 
 > Deploy via GitHub Pages: **Settings → Pages → Deploy from `main` branch → `/root`**  
-> Then visit: `https://monish4030.github.io/<repo-name>/`
+> Then visit: `https://monish4030.github.io/EMERGENCY-DRUGS/`
 
 ---
 
@@ -36,7 +36,7 @@ This is a **single-file, zero-dependency** web app. No npm, no build step.
 
 ```bash
 # Clone the repo
-git clone https://github.com/monish4030/<repo-name>.git
+git clone https://github.com/monish4030/EMERGNGY-DRUGS.git
 
 # Open in browser
 open index.html
