@@ -7,7 +7,7 @@
 ## 🖥️ Live Demo
 
 > Deploy via GitHub Pages: **Settings → Pages → Deploy from `main` branch → `/root`**  
-> Then visit: `https://monish4030.github.io/EMERGENCY-DRUGS/`
+> Then visit: `https://monish4030.github.io/EMERGENCY-DRUGS`
 
 ---
 
