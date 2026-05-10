@@ -7,7 +7,7 @@
 ## 🖥️ Live Demo
 
 > Deploy via GitHub Pages: **Settings → Pages → Deploy from `main` branch → `/root`**  
-> Then visit: `https://<your-username>.github.io/<repo-name>/`
+> Then visit: `https://monish4030.github.io/<repo-name>/`
 
 ---
 
@@ -26,12 +26,7 @@
 
 ---
 
-## 📸 Screenshot
 
-> *(Add a screenshot of your app here)*  
-> `![App Screenshot](screenshot.png)`
-
----
 
 ## 🚀 Getting Started
 
@@ -41,7 +36,7 @@ This is a **single-file, zero-dependency** web app. No npm, no build step.
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/monish4030/<repo-name>.git
 
 # Open in browser
 open index.html
